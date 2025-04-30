@@ -6,8 +6,8 @@ This repository accompanies the paper:
 **Authors:** Petrus J. Gerrits\*, Guy Solomon, M. Erdem Kabadayi, Ana Basiri  
 \*Corresponding author: [p.gerrits.1@research.gla.ac.uk](mailto:p.gerrits.1@research.gla.ac.uk)
 
-> **Zenodo DOI**: [insert DOI here]  
-> [![DOI](https://zenodo.org/badge/DOI/INSERT_DOI_HERE.svg)](https://doi.org/INSERT_DOI_HERE)
+> **Zenodo DOI**: [10.5281/zenodo.15309557]  
+> [![DOI](https://zenodo.org/badge/948221539.svg)](https://doi.org/10.5281/zenodo.15309556)
 
 ---
 
